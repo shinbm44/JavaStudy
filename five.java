@@ -1,12 +1,5 @@
 package Week_1;
 
-/*
-
-변현진 
-5번
-
-
-*/
 
 
 import java.util.Scanner;
